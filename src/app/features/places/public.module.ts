@@ -2,17 +2,17 @@ import { CommonModule } from '@angular/common';
 import { NgModule } from '@angular/core';
 import { RouterModule } from '@angular/router';
 import { SharedModule } from '@app/shared';
-import { PublicComponent } from './public.component';
+import { PlacesComponent } from './places.component';
 
 @NgModule({
-  declarations: [PublicComponent],
+  declarations: [PlacesComponent],
   imports: [
     CommonModule,
     SharedModule,
     RouterModule.forChild([
       {
         path: '',
-        component: PublicComponent,
+        component: PlacesComponent,
       },
     ]),
   ]
