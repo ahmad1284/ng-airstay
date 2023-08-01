@@ -1,0 +1,11 @@
+<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+  <!-- Circle background for the shield -->
+  <circle cx="12" cy="12" r="11" fill="#0E55A2" />
+
+  <!-- Circular shape for the path -->
+  <circle cx="12" cy="12" r="8" fill="#ffffff" />
+
+  <!-- Text for the letter "A" on top -->
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="#0E55A2"
+    font-size="12px" font-weight="bold">A</text>
+</svg>
