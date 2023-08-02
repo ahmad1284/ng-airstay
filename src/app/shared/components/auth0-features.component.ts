@@ -7,31 +7,31 @@ import { Component } from '@angular/core';
       <!-- <h2 class="auth0-features__title">Explore Auth0 Features</h2> -->
       <div class="auth0-features__grid">
         <app-auth0-feature
-          title="Mjini - 12"
+          title="Mjini - 3"
           description=""
           resourceUrl="#"
           icon="https://cdn.auth0.com/blog/hello-auth0/identity-providers-logo.svg"
         ></app-auth0-feature>
          <app-auth0-feature
-          title="Magharibi A - 12"
+          title="Magharibi A - 4"
           description=""
           resourceUrl="#"
           icon="https://cdn.auth0.com/blog/hello-auth0/identity-providers-logo.svg"
         ></app-auth0-feature>
          <app-auth0-feature
-          title="Maghribi B - 12"
+          title="Maghribi B - 5"
           description=""
           resourceUrl="#"
           icon="https://cdn.auth0.com/blog/hello-auth0/identity-providers-logo.svg"
         ></app-auth0-feature>
          <app-auth0-feature
-          title="Kusini - 12"
+          title="Kusini - 51"
           description=""
           resourceUrl="#"
           icon="https://cdn.auth0.com/blog/hello-auth0/identity-providers-logo.svg"
         ></app-auth0-feature>
          <app-auth0-feature
-          title="Kati - 12"
+          title="Kati - 56"
           description=""
           resourceUrl="#"
           icon="https://cdn.auth0.com/blog/hello-auth0/identity-providers-logo.svg"
@@ -43,31 +43,31 @@ import { Component } from '@angular/core';
           icon="https://cdn.auth0.com/blog/hello-auth0/identity-providers-logo.svg"
         ></app-auth0-feature>
          <app-auth0-feature
-          title="Kaskazini B - 12"
+          title="Kaskazini B - 98"
           description=""
           resourceUrl="#"
           icon="https://cdn.auth0.com/blog/hello-auth0/identity-providers-logo.svg"
         ></app-auth0-feature>
          <app-auth0-feature
-          title="Chake chake - 12"
+          title="Chake chake - 20"
           description=""
           resourceUrl="#"
           icon="https://cdn.auth0.com/blog/hello-auth0/identity-providers-logo.svg"
         ></app-auth0-feature>
          <app-auth0-feature
-          title="Mkoani - 12"
+          title="Mkoani - 3"
           description=""
           resourceUrl="#"
           icon="https://cdn.auth0.com/blog/hello-auth0/identity-providers-logo.svg"
         ></app-auth0-feature>
          <app-auth0-feature
-          title="Wete - 12"
+          title="Wete - 9"
           description=""
           resourceUrl="#"
           icon="https://cdn.auth0.com/blog/hello-auth0/identity-providers-logo.svg"
         ></app-auth0-feature>
          <app-auth0-feature
-          title="Micheweni - 12"
+          title="Micheweni - 8"
           description=""
           resourceUrl="#"
           icon="https://cdn.auth0.com/blog/hello-auth0/identity-providers-logo.svg"
