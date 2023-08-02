@@ -7,7 +7,6 @@ import { Component, Input } from '@angular/core';
       class="auth0-feature"
       target="_blank"
       rel="noopener noreferrer"
-      [href]="resourceUrl"
     >
       <h3 class="auth0-feature__headline">
         <img

@@ -16,12 +16,12 @@ const routes: Routes = [
     canActivate: [AuthGuard],
   },
   {
-    path: 'public',
+    path: 'places',
     loadChildren: () =>
       import('./features/places/public.module').then((m) => m.PublicModule),
   },
   {
-    path: 'protected',
+    path: 'map',
     loadChildren: () =>
       import('./features/protected/protected.module').then(
         (m) => m.ProtectedModule
